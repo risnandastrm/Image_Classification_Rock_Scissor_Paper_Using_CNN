@@ -5,5 +5,7 @@ Submission - Image Classification Model Deployment In Order To Dicoding Requirem
 Author : Risnanda Satriatama
 
 Dataset: "Rock Paper Scissors"
+
 Algorithm: Model CNN + Learning Rate Scheduler + Callbacks
+
 Accuracy: 98.75%
